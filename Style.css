@@ -1,11 +1,11 @@
 body {
-     background-color: #f5f5f5;
+     background-color: #294d61;
     font-family: Arial sans-seril;
     margin: 0;
 }
 
 header {
-    background-color:#222;
+    background-color:#05161A;
     color: white;
     text-align: center;
     padding: 30px 20px;
@@ -19,7 +19,7 @@ header p {
 .container {
     max-width: 900px;
     margin: 40px auto;
-    background: white;
+    background: #6da5c0;
     padding: 30px;
     border-radius: 10px;
 }
